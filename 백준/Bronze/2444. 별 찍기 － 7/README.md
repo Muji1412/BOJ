@@ -16,13 +16,13 @@
 
 ### 문제 설명
 
-<p style="user-select: auto !important;">예제를 보고 규칙을 유추한 뒤에 별을 찍어 보세요.</p>
+<p>예제를 보고 규칙을 유추한 뒤에 별을 찍어 보세요.</p>
 
 ### 입력 
 
- <p style="user-select: auto !important;">첫째 줄에 N(1 ≤ N ≤ 100)이 주어진다.</p>
+ <p>첫째 줄에 N(1 ≤ N ≤ 100)이 주어진다.</p>
 
 ### 출력 
 
- <p style="user-select: auto !important;">첫째 줄부터 2×N-1번째 줄까지 차례대로 별을 출력한다.</p>
+ <p>첫째 줄부터 2×N-1번째 줄까지 차례대로 별을 출력한다.</p>
 
