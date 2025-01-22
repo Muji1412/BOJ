@@ -41,10 +41,8 @@ public class Main {
         for (int i = 1; i <= N; i++) {
             st = new StringTokenizer(br.readLine());
             for (int j = 1; j <= N; j++) {
-                graphArray[i][j] = Integer.parseInt(st.nextToken());
-                if (graphArray[i][j] == 1) {
+                if (Integer.parseInt(st.nextToken()) == 1) {
                     addEdge(i, j);
-                    graphArray[i][j] = 0;
                 }
             }
         }
